@@ -66,12 +66,12 @@ void draw() {
   text(6, 600, 700);
   
   // Her er alle firkanter brugt til at lave et søjlediagram 
-  rect(100, 1000, 75, -one);
-  rect(200, 1000, 75, -two);
-  rect(300, 1000, 75, -three);
-  rect(400, 1000, 75, -four);
-  rect(500, 1000, 75, -five);
-  rect(600, 1000, 75, -six);
+  rect(100, 950, 75, -one);
+  rect(200, 950, 75, -two);
+  rect(300, 950, 75, -three);
+  rect(400, 950, 75, -four);
+  rect(500, 950, 75, -five);
+  rect(600, 950, 75, -six);
 
   //Knappen
   rect(0, 0, 1000, 650);
